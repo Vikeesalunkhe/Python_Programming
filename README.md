@@ -2,7 +2,7 @@
 Python-Programming
 
 
-![Logo](https://michaelwashburnjr.com/hubfs/Imported_Blog_Media/python.jpg)
+![Logo](https://www.techieclues.com/Images/tutorial/python/python-banner.png)
 
 ## Content
 
