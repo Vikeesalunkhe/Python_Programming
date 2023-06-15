@@ -1,5 +1,5 @@
 # Python_Programming
-Python-Programming
+Python_Basic_and_Advance_Programming
 
 
 ![Logo](https://www.techieclues.com/Images/tutorial/python/python-banner.png)
@@ -9,6 +9,8 @@ Python-Programming
 
      1. Variables in Python 
      2. Data Types in python
+     3. String and its funtion
+     4. Control Statemnt
 
 
 
