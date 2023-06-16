@@ -11,6 +11,7 @@ Python_Basic_and_Advance_Programming
      2. Data Types in python
      3. String and its funtion
      4. Control Statemnt
+     5. Functions
 
 
 
