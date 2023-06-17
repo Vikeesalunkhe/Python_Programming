@@ -12,6 +12,7 @@ Python_Basic_and_Advance_Programming
      3. String and its funtion
      4. Control Statemnt
      5. Functions
+     6. Control Transfer Statement
 
 
 
